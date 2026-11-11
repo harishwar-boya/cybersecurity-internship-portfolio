@@ -1,0 +1,9 @@
+# Local secrets and configuration
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+*credentials*
+*secret*
