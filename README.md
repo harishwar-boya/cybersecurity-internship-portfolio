@@ -23,7 +23,8 @@ A hands-on project exploring Shell-GPT as a command-line AI assistant for suppor
 ## Project documentation
 
 - [Project summary](AI-Powered-Ethical-Hacking-Automation/docs/project-summary.md)
-- [Sanitised project PDF](AI-Powered-Ethical-Hacking-Automation/AI-Powered-Ethical-Hacking-Automation-Internship-Project-SANITIZED.pdf)
+
+A sanitised PDF copy is available separately for download. The connected GitHub file-writing interface supports text files but does not expose a binary PDF upload operation, so the PDF has not yet been committed to this repository.
 
 ## Lab scope and responsible use
 
@@ -40,4 +41,4 @@ The source documentation describes exercises in deliberately vulnerable environm
 
 This project is presented as work completed during my cybersecurity internship. Employer and client names are omitted. This portfolio entry is a personal work sample and does not imply employer endorsement or independent verification.
 
-The public PDF is a sanitised copy. Pages containing API-key or session-cookie screenshots were omitted before publication. Do not add the unredacted source document, credentials, session tokens, private IP details, or confidential employer/client material to this repository.
+The public PDF copy is sanitised. Pages containing API-key or session-cookie screenshots/values were omitted before publication. Do not add the unredacted source document, credentials, session tokens, or confidential employer/client material to this repository.
