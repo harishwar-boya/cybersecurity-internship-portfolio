@@ -1,22 +1,22 @@
 # Cybersecurity Internship Portfolio
 
-This repository contains selected documentation from my cybersecurity internship, including practical lab exercises, tools explored, and technical learning outcomes.
+This repository contains documentation from my cybersecurity internship, including hands-on lab exercises, tools explored, and technical learning outcomes.
 
 ## Featured project
 
 ### AI-Powered Ethical Hacking Automation with Shell-GPT
 
-A hands-on project exploring Shell-GPT as a command-line AI assistant for supporting a controlled ethical-hacking workflow.
+A hands-on lab project exploring Shell-GPT as a command-line AI assistant for supporting an ethical-hacking workflow.
 
 **Topics covered**
 - Shell-GPT setup and AI-assisted terminal command generation
 - Reconnaissance and service discovery with Nmap
 - Vulnerability scanning with Nikto and Nmap NSE scripts
 - Web content discovery and fuzzing with SecLists, Gobuster, and Feroxbuster
-- Authentication-testing concepts with Hydra in lab scenarios
-- SQL injection testing concepts using DVWA and SQLMap
-- Metasploit and payload-generation concepts in controlled lab exercises
-- Bash scripting concepts for subdomain-enumeration automation
+- Authentication testing with Hydra in lab scenarios
+- SQL injection testing using DVWA and SQLMap
+- Metasploit and payload-generation exercises in the lab
+- Bash scripting for subdomain-enumeration automation
 
 **Tools:** Shell-GPT, Python 3, Linux, Nmap, Nikto, SecLists, Gobuster, Feroxbuster, Hydra, DVWA, SQLMap, Metasploit Framework, MSFvenom, and Bash.
 
@@ -24,11 +24,12 @@ A hands-on project exploring Shell-GPT as a command-line AI assistant for suppor
 
 - [Project summary](AI-Powered-Ethical-Hacking-Automation/docs/project-summary.md)
 
-A sanitised PDF copy is available separately for download. The connected GitHub file-writing interface supports text files but does not expose a binary PDF upload operation, so the PDF has not yet been committed to this repository.
+The accompanying full-length 27-page PDF is prepared for publication. Upload it to this folder as:
+`AI-Powered-Ethical-Hacking-Automation/AI-Powered-Ethical-Hacking-Automation-Internship-Project-FULL-27PAGES.pdf`
 
 ## Lab scope and responsible use
 
-The source documentation describes exercises in deliberately vulnerable environments, including Metasploitable 2 and DVWA. Testing must be restricted to systems owned by the tester or covered by explicit written authorisation. Nothing in this repository grants permission to test third-party systems.
+The project documentation describes lab exercises using Metasploitable 2 and DVWA. The examples are for learning in controlled lab environments. Testing outside a lab must be limited to systems owned by the tester or covered by explicit written authorisation.
 
 ## Learning outcomes
 
@@ -39,6 +40,6 @@ The source documentation describes exercises in deliberately vulnerable environm
 
 ## Attribution and publication
 
-This project is presented as work completed during my cybersecurity internship. Employer and client names are omitted. This portfolio entry is a personal work sample and does not imply employer endorsement or independent verification.
+This project is presented as lab work completed during my cybersecurity internship. Employer and client names are omitted. This portfolio entry is a personal work sample and does not imply employer endorsement or independent verification.
 
-The public PDF copy is sanitised. Pages containing API-key or session-cookie screenshots/values were omitted before publication. Do not add the unredacted source document, credentials, session tokens, or confidential employer/client material to this repository.
+The 27-page public PDF retains the complete document, including lab commands, explanations, figures, and screenshots. Only exposed API-key and session-cookie values are masked; no whole page or instructional section is removed. Do not publish the unredacted source file because it contains credential material.
